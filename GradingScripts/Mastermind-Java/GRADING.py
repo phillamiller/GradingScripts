@@ -5,7 +5,7 @@ import subprocess
 sys.path.append(".")
 sys.path.append("../resource/lib/public")
 from stdio_tools import *
-from java_tools import *
+from java_ast_tools import *
 from name_tools import *
 from asserts import *
 from grader_tools import *
